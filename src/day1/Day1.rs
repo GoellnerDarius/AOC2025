@@ -3,7 +3,6 @@ use std::{cmp, fs};
 
 // pub mod day1;
 pub fn solve() {
-    println!("Hello, world!");
 
     println!("Day 1 Part 1 Solution: {}", part1());
     println!("Day 1 Part 2 Solution: {}", part2());
